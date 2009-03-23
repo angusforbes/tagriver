@@ -1,0 +1,100 @@
+199 The Beatles
+178 Pink Floyd
+138 The Doors
+135 Led Zeppelin
+110 The Rolling Stones
+105 David Bowie
+102 Bob Dylan
+101 The Velvet Underground
+99 The Who
+93 Jimi Hendrix
+82 Jefferson Airplane
+79 Radiohead
+74 The Kinks
+65 Black Sabbath
+65 John Lennon
+65 The Beach Boys
+61 Creedence Clearwater Revival
+59 Nirvana
+59 The White Stripes
+59 The Clash
+58 Cream
+57 Red Hot Chili Peppers
+56 King Crimson
+55 The Cure
+55 Syd Barrett
+55 The Jimi Hendrix Experience
+54 Frank Zappa
+54 Grateful Dead
+53 Neil Young
+53 Queen
+52 The Byrds
+51 Simon & Garfunkel
+49 Beck
+48 The Arcade Fire
+47 Joy Division
+47 The Smashing Pumpkins
+46 Oasis
+46 Deep Purple
+46 The Zombies
+45 Johnny Cash
+44 The Stooges
+44 Muse
+43 Pixies
+43 Metallica
+43 Ramones
+43 Belle and Sebastian
+43 T. Rex
+42 AC/DC
+42 Love
+41 The Smiths
+41 Eric Clapton
+39 Sonic Youth
+39 The Flaming Lips
+38 Blur
+38 Jethro Tull
+37 Nick Drake
+37 Sigur Rós
+37 Modest Mouse
+37 13th Floor Elevators
+37 Franz Ferdinand
+36 The Shins
+36 Yes
+36 Donovan
+36 The Strokes
+35 Dire Straits
+34 Björk
+34 Tool
+34 Elliott Smith
+34 The Small Faces
+33 Air
+33 Electric Light Orchestra
+33 U2
+33 Pearl Jam
+33 Lynyrd Skynyrd
+33 George Harrison
+32 Miles Davis
+32 Lou Reed
+32 Can
+32 Elvis Presley
+32 Tom Waits
+32 Aerosmith
+32 Guns N' Roses
+32 Queens of the Stone Age
+32 Interpol
+32 The Decemberists
+31 Captain Beefheart & His Magic Band
+31 Talking Heads
+31 Van Morrison
+31 Nine Inch Nails
+31 Coldplay
+31 Iron Maiden
+31 The Mars Volta
+31 Yeah Yeah Yeahs
+30 The Allman Brothers Band
+30 Rage Against the Machine
+29 James Brown
+28 My Bloody Valentine
+28 Jeff Buckley
+28 Eagles
+28 Buffalo Springfield

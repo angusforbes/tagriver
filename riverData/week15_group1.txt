@@ -1,0 +1,100 @@
+204 The Beatles
+183 Pink Floyd
+149 Led Zeppelin
+140 The Doors
+131 Bob Dylan
+110 The Rolling Stones
+106 Jimi Hendrix
+106 The Velvet Underground
+97 Jefferson Airplane
+89 Radiohead
+87 The Who
+84 David Bowie
+83 The Kinks
+71 Red Hot Chili Peppers
+70 Cream
+66 Queen
+66 Simon & Garfunkel
+64 Nirvana
+62 Neil Young
+62 The White Stripes
+61 John Lennon
+60 The Arcade Fire
+59 The Beach Boys
+57 Black Sabbath
+56 Deep Purple
+56 Frank Zappa
+56 Creedence Clearwater Revival
+55 13th Floor Elevators
+53 The Byrds
+53 Syd Barrett
+53 Grateful Dead
+53 The Smashing Pumpkins
+50 The Zombies
+48 Air
+48 The Jimi Hendrix Experience
+48 Ramones
+48 Belle and Sebastian
+47 Jethro Tull
+46 Muse
+45 Pixies
+45 Donovan
+45 AC/DC
+44 The Stooges
+44 The Smiths
+43 U2
+43 The Clash
+43 King Crimson
+43 Modest Mouse
+43 The Shins
+42 Joy Division
+42 Elvis Presley
+42 Metallica
+41 The Flaming Lips
+41 Johnny Cash
+40 Lou Reed
+40 Tool
+40 Eric Clapton
+40 Janis Joplin
+40 The Strokes
+40 Love
+39 Elliott Smith
+38 Nick Drake
+38 Beck
+38 Oasis
+37 Coldplay
+37 Captain Beefheart & His Magic Band
+36 Yes
+36 Iron Maiden
+36 Queens of the Stone Age
+36 T. Rex
+36 Os Mutantes
+36 of Montreal
+35 The Cure
+35 Blur
+35 Sonic Youth
+35 Sigur Rós
+35 The Police
+35 The Yardbirds
+35 Aerosmith
+35 R.E.M.
+34 Dire Straits
+34 Guns N' Roses
+34 George Harrison
+34 The Small Faces
+33 Björk
+33 Rush
+33 Franz Ferdinand
+32 Sufjan Stevens
+32 Depeche Mode
+32 Pearl Jam
+32 Fleetwood Mac
+32 Lynyrd Skynyrd
+32 Porcupine Tree
+32 Wolfmother
+31 The Electric Prunes
+31 Moby
+31 Wilco
+30 Talking Heads
+30 Van Morrison
+30 Placebo

@@ -1,0 +1,100 @@
+191 The Beatles
+158 Pink Floyd
+124 The Doors
+114 Led Zeppelin
+99 Bob Dylan
+94 The Rolling Stones
+88 David Bowie
+88 The Velvet Underground
+88 The Who
+84 Jimi Hendrix
+69 Jefferson Airplane
+69 The Beach Boys
+67 Queen
+65 Radiohead
+64 Red Hot Chili Peppers
+64 The Kinks
+61 The Byrds
+61 John Lennon
+58 Nirvana
+58 Black Sabbath
+58 Cream
+57 Beck
+56 Frank Zappa
+53 Neil Young
+52 Creedence Clearwater Revival
+51 Simon & Garfunkel
+50 Jethro Tull
+49 King Crimson
+49 Metallica
+48 Pixies
+48 The White Stripes
+48 The Clash
+47 Tom Waits
+47 The Strokes
+47 13th Floor Elevators
+46 Syd Barrett
+45 The Cure
+45 The Flaming Lips
+45 Ramones
+45 The Zombies
+44 James Brown
+44 AC/DC
+44 Johnny Cash
+44 Love
+42 Muse
+42 Belle and Sebastian
+41 U2
+41 Deep Purple
+40 Air
+39 R.E.M.
+38 Tool
+37 Sonic Youth
+37 The Smiths
+37 Joy Division
+37 Guns N' Roses
+37 Grateful Dead
+37 Sufjan Stevens
+36 Donovan
+36 Pearl Jam
+35 The Yardbirds
+35 The Smashing Pumpkins
+35 T. Rex
+34 Blur
+34 Coldplay
+34 Oasis
+34 George Harrison
+33 Miles Davis
+33 Nick Drake
+33 Depeche Mode
+33 Elliott Smith
+33 The Jimi Hendrix Experience
+33 Dire Straits
+33 Interpol
+32 Massive Attack
+32 Eric Clapton
+32 The Animals
+32 Rage Against the Machine
+32 Franz Ferdinand
+31 Lou Reed
+31 Death Cab for Cutie
+31 Lynyrd Skynyrd
+31 Queens of the Stone Age
+31 The Killers
+31 The Arcade Fire
+30 The Stooges
+30 Talking Heads
+30 Yes
+30 Neutral Milk Hotel
+30 Van Morrison
+30 Sigur Rós
+30 Cat Power
+30 The Shins
+29 Iron Maiden
+29 Rush
+28 Aphex Twin
+28 Placebo
+28 Elvis Presley
+28 Janis Joplin
+28 Yeah Yeah Yeahs
+28 of Montreal

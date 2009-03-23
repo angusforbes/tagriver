@@ -1,0 +1,100 @@
+230 The Beatles
+188 Pink Floyd
+146 Led Zeppelin
+136 The Doors
+119 Bob Dylan
+108 David Bowie
+105 Jimi Hendrix
+103 The Rolling Stones
+102 The Who
+94 The Velvet Underground
+89 The Kinks
+85 Jefferson Airplane
+83 Radiohead
+76 Red Hot Chili Peppers
+73 Nirvana
+72 Black Sabbath
+72 The Beach Boys
+69 John Lennon
+68 Queen
+67 Simon & Garfunkel
+64 The White Stripes
+63 The Zombies
+61 Deep Purple
+61 Frank Zappa
+61 Cream
+58 The Byrds
+58 The Clash
+57 Ramones
+55 Neil Young
+54 The Cure
+53 Belle and Sebastian
+52 Beck
+52 King Crimson
+51 Johnny Cash
+49 Muse
+49 The Smashing Pumpkins
+49 Creedence Clearwater Revival
+49 13th Floor Elevators
+48 Pixies
+48 Eric Clapton
+48 Metallica
+48 AC/DC
+48 Grateful Dead
+48 Love
+48 Jethro Tull
+47 Syd Barrett
+47 The Flaming Lips
+45 Iron Maiden
+44 The Smiths
+44 Tool
+43 Lou Reed
+43 Pearl Jam
+43 The Strokes
+42 Joy Division
+41 Yes
+41 Oasis
+41 Guns N' Roses
+41 Bob Marley & The Wailers
+40 Air
+40 The Jimi Hendrix Experience
+40 Dire Straits
+40 R.E.M.
+39 Sigur Rós
+39 Elliott Smith
+39 The Yardbirds
+38 Miles Davis
+38 Coldplay
+38 The Shins
+37 Rage Against the Machine
+37 My Bloody Valentine
+37 The Stooges
+37 Blur
+37 Nick Drake
+37 Donovan
+37 Tom Waits
+37 Queens of the Stone Age
+37 Rush
+37 T. Rex
+36 Sonic Youth
+36 U2
+36 George Harrison
+36 Elton John
+35 Can
+35 Elvis Presley
+35 Paul McCartney
+35 The Brian Jonestown Massacre
+34 Björk
+34 Bob Marley
+33 Nine Inch Nails
+33 Eagles
+33 Lynyrd Skynyrd
+33 Gorillaz
+33 Genesis
+33 Nick Cave and the Bad Seeds
+33 Modest Mouse
+33 The Mars Volta
+33 Porcupine Tree
+33 of Montreal
+33 Sufjan Stevens
+32 Franz Ferdinand

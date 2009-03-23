@@ -1,0 +1,100 @@
+205 Pink Floyd
+203 The Beatles
+150 Led Zeppelin
+138 The Doors
+120 Bob Dylan
+120 The Who
+105 The Rolling Stones
+103 Jimi Hendrix
+96 The Velvet Underground
+95 Jefferson Airplane
+94 David Bowie
+89 The Kinks
+82 Radiohead
+75 Queen
+74 Black Sabbath
+73 The White Stripes
+70 Deep Purple
+70 John Lennon
+69 Red Hot Chili Peppers
+69 Frank Zappa
+66 The Beach Boys
+65 Nirvana
+63 Cream
+61 The Clash
+60 The Cure
+60 King Crimson
+58 Johnny Cash
+57 Syd Barrett
+56 Neil Young
+55 The Byrds
+53 Beck
+53 Love
+52 Belle and Sebastian
+51 Creedence Clearwater Revival
+50 The Smiths
+50 Metallica
+50 AC/DC
+50 Grateful Dead
+49 Simon & Garfunkel
+48 Oasis
+48 Muse
+48 Jethro Tull
+48 13th Floor Elevators
+47 Nick Drake
+47 Pearl Jam
+47 The Zombies
+46 Eric Clapton
+46 George Harrison
+45 The Strokes
+44 Joy Division
+44 The Smashing Pumpkins
+43 The Flaming Lips
+43 Guns N' Roses
+43 The Mars Volta
+42 Donovan
+42 U2
+42 The Jimi Hendrix Experience
+40 Björk
+40 Lou Reed
+40 Lynyrd Skynyrd
+39 Yes
+39 Tool
+39 Elliott Smith
+39 Janis Joplin
+39 Ramones
+39 Queens of the Stone Age
+39 R.E.M.
+38 Franz Ferdinand
+38 Coldplay
+38 Elvis Presley
+37 Can
+37 Bob Marley
+36 Tom Waits
+36 Dire Straits
+36 Rush
+35 The Stooges
+35 Pixies
+35 Van Morrison
+35 Aerosmith
+35 T. Rex
+35 Sufjan Stevens
+34 The Arcade Fire
+34 Blur
+34 Sonic Youth
+34 The Yardbirds
+34 Audioslave
+33 Air
+33 Talking Heads
+33 Nine Inch Nails
+33 A Perfect Circle
+33 Interpol
+33 The Shins
+32 Rage Against the Machine
+32 Depeche Mode
+32 Sigur Rós
+32 Gorillaz
+32 The Animals
+32 Modest Mouse
+31 Iggy Pop
+31 Aphex Twin
