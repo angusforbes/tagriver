@@ -33,7 +33,6 @@
 1 Duman
 1 Barry Adamson
 1 Duran Duran
-1 Ogün Sanlisoy
 1 R.E.M.
 1 Sentenced
 1 65daysofstatic
@@ -41,7 +40,6 @@
 1 Demir Demirkan
 1 Megadeth
 1 Mando Diao
-1 DJ Tiësto
 1 Porcupine Tree
 1 Rammstein
 1 Chris Isaak

@@ -1,4 +1,4 @@
-65 Björk
+65 Bjork
 64 Kate Bush
 54 The Cure
 38 Ani DiFranco
@@ -16,7 +16,6 @@
 5 The Sugarcubes
 4 Angela Aki
 3 E-Rotic
-2 Björk Guðmundsdóttir
 2 Lauryn Hill
 2 Kanon Wakeshima
 2 Tegan and Sara

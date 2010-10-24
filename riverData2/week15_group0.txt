@@ -14,7 +14,6 @@
 1 Moonspell
 1 Koop
 1 Dio
-1 Ogün Sanlisoy
 1 Tiamat
 1 The String Quartet
 1 Mercan Dede
@@ -40,8 +39,6 @@
 1 Amorphis
 1 Iron Maiden
 1 Megadeth
-1 3
-1 Mylène Farmer
 1 Marillion
 1 Blur
 1 Chris Cornell

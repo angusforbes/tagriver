@@ -1,5 +1,5 @@
 41 Tori Amos
-31 Björk
+31 Bjork
 25 Marilyn Manson
 21 Tegan and Sara
 18 The Cure
@@ -29,7 +29,6 @@
 2 Angela Aki
 2 Portishead
 2 Plastic Ono Band/Yoko Ono/Something Different
-2 Guðmundsdóttir, Björk & Trió Guðmundar Ingólfssonar
 2 M.I.A.
 2 Liz Phair
 1 Sia
@@ -45,9 +44,7 @@
 1 Sykurmolarnir
 1 John Lennon
 1 Big Mama Thornton
-1 Günther
 1 Depeche Mode
-1 Björk/LC Lemay
 1 Prince
 1 KUKL
 1 Poe

@@ -1,7 +1,6 @@
 21 R.E.M.
 20 Hayko Cepkin
 11 Pearl Jam
-7 MFÖ
 5 Rainbow
 5 Marillion
 5 The Gathering
@@ -21,7 +20,6 @@
 2 Mogwai
 2 Creed
 2 Beseech
-2 Müslüm Gürses
 2 HIM
 2 Jay-Jay Johanson
 2 Green Carnation
@@ -34,9 +32,7 @@
 2 The Last Shadow Puppets
 2 Dido
 2 Paradise Lost
-2 Noir Désir
 2 Autumn
-2 Mylène Farmer
 2 Within Temptation
 2 Secret Garden
 2 Porcupine Tree
@@ -69,7 +65,7 @@
 1 UB40
 1 Coldplay
 1 Bryan Adams
-1 Blue Öyster Cult
+1 Blue Oyster Cult
 1 Pain of Salvation
 1 Novembre
 1 Bebe
@@ -80,7 +76,6 @@
 1 Accept
 1 Godsmack
 1 U2
-1 Laço Tayfa
 1 Eilera
 1 Blur
 1 Jane's Addiction
@@ -102,7 +97,6 @@
 1 The Killers
 1 Pantera
 1 Screaming Trees
-1 Elfonía
 1 Alice in Chains
 1 Ayreon
 1 Flowing Tears

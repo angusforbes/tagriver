@@ -45,6 +45,7 @@ public class TagRiver2 extends WorldGeom
   public static int NUM_TIMES = 21;
   public static int NUM_LAYERS = 4;
   public static final String RIVER_PATH = "riverData2/";
+  //public static final String RIVER_PATH = "river_data/";
   public static Colorf COLOR0 = new Colorf(.659f, .682f, .502f, 1f);
   public static Colorf COLOR1 = new Colorf(.573f, .639f, .365f, 1f);
   public static Colorf COLOR2 = new Colorf(.933f, .969f, .788f, 1f);
@@ -148,10 +149,11 @@ public class TagRiver2 extends WorldGeom
         new Point3f(0f, leftSide.get(ii + 1), 0f));
       stratumPolys.add(poly);
     }
-    placeTagsWhenBrowsing(Utils.now(), this.holder.openStrata, currDataSlice, stratumPolys, this.holder.openStrata.x);
+
+   // placeTagsWhenBrowsing(Utils.now(), this.holder.openStrata, currDataSlice, stratumPolys, this.holder.openStrata.x);
 
 
-  //updateAllStrata();
+    updateAllStrata();
   }
 
   private void initializeStrataData()
@@ -223,6 +225,7 @@ public class TagRiver2 extends WorldGeom
         //String filename = FileUtils.toCrossPlatformFilename(RIVER_PATH + "test" + time + "_" + layer + ".txt");
         String filename = FileUtils.toCrossPlatformFilename(RIVER_PATH + "week" + time + "_group" + layer + ".txt");
 
+	System.out.println(filename);
         try
         {
           file = new File(filename);
@@ -232,8 +235,9 @@ public class TagRiver2 extends WorldGeom
           {
             String str = s.nextLine();
             String split[] = str.split(" ");
-            //System.out.println(split[0]);
+            System.out.print(split[0] + ": ");
             str = str.substring(split[0].length(), str.length());
+	    System.out.println(str);
             dataStratum.updateTags(str, currentColor, currentHghColor, this.holder);
             int cnt = Integer.parseInt(split[0]);
             dataStratumSlice.updateTagCount(str, cnt);

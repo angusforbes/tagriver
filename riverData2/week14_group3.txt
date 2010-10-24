@@ -4,14 +4,12 @@
 18 Nirvana
 13 Mogwai
 10 Aerosmith
-9 Bulutsuzluk Özlemi
 5 311
 5 Bat For Lashes
 4 Frou Frou
 4 Ata Demirer
 3 Therion
 3 3 Hurel
-2 Üç Nokta Bir
 2 The Band
 2 Erkan O?ur
 2 Collide
@@ -24,13 +22,11 @@
 1 Miss Platnum
 1 Radiohead
 1 Caleb Kane
-1 Baris Manço
 1 The Dillinger Escape Plan
 1 Ministry
 1 BarlowGirl
 1 Lenny Kravitz
 1 Korhan
-1 Róisín Murphy
 1 Yasemin Mori
 1 Reha Falay
 1 Sting
@@ -40,4 +36,3 @@
 1 Amy Winehouse
 1 Feist
 1 Black Eyed Peas
-1 Kesme?eker

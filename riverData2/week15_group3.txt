@@ -1,4 +1,3 @@
-27 Mor ve Ötesi
 25 Mogwai
 17 Placebo
 15 Oasis
@@ -17,7 +16,6 @@
 4 Brooklyn Funk Essentials
 4 The Flaming Lips
 4 Deep Purple
-3 Nü
 3 Inkubus Sukkubus
 3 HIM
 3 George & Ira Gershwin
@@ -44,18 +42,14 @@
 2 Victoria Faiella
 2 Tamy
 2 Sezen Aksu
-2 Ulrich 'Kodjo' Wendt & Band
 1 69
 1 Metallica
 1 Yasemin Mori
 1 Ninos Con Bombas
-1 Korai Öröm
 1 Buddy Wasisname
 1 Les Enfoires
 1 Bandaloop
-1 J*Let
 1 Bob Marley
-1 Abdullah Yüce
 1 Manu Chao - radio bemba sound system
 1 Beirut
 1 Cowbow Junkies

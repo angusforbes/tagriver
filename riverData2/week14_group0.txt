@@ -4,7 +4,6 @@
 14 Jimmy Buffett
 3 Slowdive
 2 Tiamat
-2 Mylène Farmer
 2 Marillion
 2 Black
 2 Mafalda Arnauth
@@ -27,7 +26,6 @@
 1 Morrissey
 1 Rammstein
 1 Ozzy Osbourne
-1 Ogün Sanlisoy
 1 Paradise Lost
 1 Hortus Animae
 1 Blur

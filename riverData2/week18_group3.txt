@@ -1,4 +1,3 @@
-130 Mor ve Ötesi
 26 Morrissey
 22 Glen Hansard and Marketa Irglova
 18 The Gathering
@@ -33,9 +32,6 @@
 4 Metallica
 4 Whitesnake
 4 Ceza
-3 Nü
-3 Ünlü
-3 Ahmet Özhan
 3 The Flaming Lips
 3 Led Zeppelin
 2 Xandria

@@ -59,7 +59,11 @@ public class PackingAlgorithm3
   {
     synchronized(availableRectangles)
     {
-      this.availableRectangles.addAll(createAvailableRectanglesForPath(boundingPath, 5, 3));
+      List<Rectangle2D> availableRects = createAvailableRectanglesForPath(boundingPath, 5, 3);
+      if (availableRects != null)
+      {
+	this.availableRectangles.addAll(availableRects);
+      }
     }
   }
 

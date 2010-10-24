@@ -2,7 +2,6 @@
 20 Judas Priest
 14 Amorphis
 9 Black Sabbath
-5 Motörhead
 4 Leonard Cohen
 2 Slowdive
 2 The Gathering
@@ -20,7 +19,6 @@
 1 Dire Straits
 1 Praise
 1 G. Love & Special Sauce
-1 Ogün Sanlisoy
 1 Ben Harper and The Blind Boys of Alabama
 1 October 31
 1 Creed
@@ -49,13 +47,11 @@
 1 Black Label Society
 1 Leman Sam
 1 Thin Lizzy
-1 Mylène Farmer
 1 MSTRKRFT
 1 KISS
 1 Mercan Dede
 1 Dio
 1 Gravenhurst
-1 Blue Öyster Cult
 1 Marillion
 1 Anathema
 1 Stratovarius

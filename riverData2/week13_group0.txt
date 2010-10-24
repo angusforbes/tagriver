@@ -26,10 +26,8 @@
 1 Riverside
 1 Sarah McLachlan
 1 Amy Winehouse
-1 Ünlü
 1 Marillion
 1 Tiamat
-1 Motörhead
 1 Johnny Cash
 1 Mono
 1 Pearl Jam
@@ -44,7 +42,6 @@
 1 Octavia
 1 Bon Jovi
 1 Billie Holiday
-1 Ogün Sanlisoy
 1 Nirvana
 1 Etta James
 1 Ella Fitzgerald
@@ -56,7 +53,6 @@
 1 Peggy Lee
 1 Aerosmith
 1 Blur
-1 Mylène Farmer
 1 Kittie
 1 Amy McDonald
 1 Porcupine Tree

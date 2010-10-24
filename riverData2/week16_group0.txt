@@ -1,5 +1,4 @@
 20 Fish
-15 MFÖ
 13 Demir Demirkan
 9 In Flames
 7 Deep Purple
@@ -9,7 +8,6 @@
 4 Jay-Jay Johanson
 4 Yasar Kurt
 3 Chris Isaak
-3 Müslüm Gürses
 3 The Gathering
 3 Alanis Morissette
 3 Rammstein
@@ -32,7 +30,6 @@
 1 Theatre of Tragedy
 1 Guns N' Roses
 1 Aimee Mann
-1 Mylène Farmer
 1 Lamb
 1 Uaral
 1 Judas Priest

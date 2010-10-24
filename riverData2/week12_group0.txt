@@ -13,7 +13,6 @@
 1 Royal Hunt
 1 Electric Light Orchestra
 1 Kamelot
-1 Queensrÿche
 1 Buffalo Tom
 1 The Clash
 1 Sezen Aksu
@@ -25,11 +24,9 @@
 1 The Smashing Pumpkins
 1 W.A.S.P.
 1 Iron Maiden
-1 Deniz Türkali
 1 Bruce Dickinson
 1 The Verve
 1 Janis Joplin
-1 Seksendört
 1 Bon Jovi
 1 The Tragically Hip
 1 Pulp
