@@ -150,7 +150,7 @@ public class TagRiver2 extends WorldGeom
       stratumPolys.add(poly);
     }
 
-   // placeTagsWhenBrowsing(Utils.now(), this.holder.openStrata, currDataSlice, stratumPolys, this.holder.openStrata.x);
+   placeTagsWhenBrowsing(Utils.now(), this.holder.openStrata, currDataSlice, stratumPolys, this.holder.openStrata.x);
 
 
     updateAllStrata();
