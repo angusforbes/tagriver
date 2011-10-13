@@ -3,8 +3,9 @@ import behaviors.geom.continuous.BehaviorRGBA;
 import behaviors.geom.continuous.BehaviorScale;
 import behaviors.geom.continuous.BehaviorTranslate;
 import behaviors.geom.discrete.BehaviorIsActive;
-import geometry.Colorf;
 import geometry.text.GeomTextOutset;
+import javax.media.opengl.GL;
+import javax.media.opengl.glu.GLU;
 import javax.vecmath.Point3f;
 
 /* GeomTag2.java ~ Jan 25, 2009 */
@@ -69,4 +70,11 @@ public class GeomTag2 extends GeomTextOutset {
     super(gtb);
     isSelectable = false;
   }
+
+  public void draw(GL gl, GLU glu, float offset) {
+       gl.glDisable(gl.GL_BLEND);
+
+       super.draw(gl, glu, offset);
+  }
+
 }

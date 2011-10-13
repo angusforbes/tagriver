@@ -103,12 +103,13 @@ public class GeomStrataHolder extends GeomRect
 
   public void updateBehaviors(GeomStrata strata)
   {
+    System.out.println("in GeomStrataHolder.updateBehaviores...\n");
+
     if (strata == openStrata  ) // || runRiver == true)
     {
       return;
     }
-    else
-    {
+    else {
       long baseNano = Utils.nowPlusMillis(START);
 
       openStrata = strata;
@@ -131,8 +132,10 @@ public class GeomStrataHolder extends GeomRect
           gs.behaviorXandW.interruptImmediately();
         }
 
-        if (gs == openStrata)
-        {
+        if (gs == openStrata) {
+
+	  System.out.println("gs == openStrata");
+
           //openStrataIdx = i;
           gs.behaviorXandW = BehaviorTranslateXAndUpdateWidth.translate(gs, baseNano,
             SPEED,
@@ -147,9 +150,9 @@ public class GeomStrataHolder extends GeomRect
           gs.isOpen = false;
 
           ux += openInc;
-        }
-        else
-        {
+        } else {
+	  System.out.println("gs != openStrata");
+
           gs.behaviorXandW = BehaviorTranslateXAndUpdateWidth.translate(gs, baseNano,
             SPEED,
             new float[]
@@ -172,7 +175,7 @@ public class GeomStrataHolder extends GeomRect
       List<Float> rightSide = rightDataSlice.layerPositions;
 
       List<GeomPoly> stratumPolys = new ArrayList<GeomPoly>();
-      for (int ii = 0; ii < 4; ii++)
+      for (int ii = 0; ii < TagRiver2.NUM_LAYERS; ii++)
       {
         GeomPoly poly = new GeomPoly(
           new Point3f(0f, leftSide.get(ii), 0f),

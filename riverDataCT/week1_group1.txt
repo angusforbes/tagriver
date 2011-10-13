@@ -1,0 +1,25 @@
+p:soma1.jpg
+p:soma2.jpg
+p:soma3.jpg
+p:soma4.jpg
+p:soma5.jpg
+p:soma6.jpg
+p:soma7.jpg
+p:soma8.jpg
+p:soma9.jpg
+3 coffee
+1 latte
+3 pentaque
+4 dog
+3 cute
+2 growl
+3 skull
+4 brid
+10 art
+12 media art
+14 carissa
+10 orange
+8 flowers
+4 gallery
+14 soma
+6 cloud
