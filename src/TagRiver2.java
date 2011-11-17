@@ -44,13 +44,20 @@ public class TagRiver2 extends WorldGeom {
   GeomStrataHolder holder;
   public static int NUM_TIMES = 21; //21
   public static int NUM_LAYERS = 4; //4
-  public static final String RIVER_PATH = "riverDataCT/";
-  public static final String PHOTO_PATH = "riverDataCT/PHOTOS/";
+  public static final String RIVER_PATH = "riverData2/";
+  public static final String PHOTO_PATH = "riverData2/";
+  //public static final String PHOTO_PATH = "riverDataCT/PHOTOS/";
 
-  public static final String USER_1 = "Wellesley";
-  public static final String USER_2 = "SOMArts";
-  public static final String USER_3 = "Poznan";
+ //public static final String USER_1 = "Wellesley";
+ // public static final String USER_2 = "SOMArts";
+ // public static final String USER_3 = "Poznan";
+ // public static final String USER_4 = "user 4";
+
+ public static final String USER_1 = "user 1";
+  public static final String USER_2 = "user 2";
+  public static final String USER_3 = "user 3";
   public static final String USER_4 = "user 4";
+
 
   //public static final String RIVER_PATH = "riverData2/";
   //public static final String RIVER_PATH = "river_data/";
